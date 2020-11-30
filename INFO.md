@@ -1,1 +1,2 @@
-one more line
+git is awesome!
+new line
